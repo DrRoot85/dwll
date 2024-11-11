@@ -197,3 +197,4 @@ inspiration, and to the various contributors to the project, including:
 [wiki]: https://codeberg.org/dwl/dwl/wiki/Home#compatible-status-bars
 [Discord server]: https://discord.gg/jJxZnrGPWN
 [Wayland]: https://wayland.freedesktop.org/
+# dwll
